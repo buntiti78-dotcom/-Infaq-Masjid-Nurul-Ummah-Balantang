@@ -1,0 +1,6 @@
+{
+  "name": "Infaq Masjid Nurul Ummah Balantang",
+  "description": "Aplikasi Pengelolaan Infaq, Sedekah Digital QRIS & Kas Transparan Masjid Nurul Ummah Balantang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
